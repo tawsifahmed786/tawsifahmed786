@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="./index.html"><img alt="View Profile" src="https://img.shields.io/badge/View_Profile-Index.html-blue?logo=html5"></a>
+  <a href="https://tawsifahmed786.github.io/tawsifahmed786/"><img alt="View Profile" src="https://img.shields.io/badge/View_Profile-Index.html-blue?logo=html5"></a>
   <a href="https://tawsifahmed786.github.io/tawsifahmed786/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-tawsifahmed786-black?logo=github"></a>
   <a href="./resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-informational?logo=adobeacrobatreader"></a>
 </p>
