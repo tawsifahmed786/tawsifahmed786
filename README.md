@@ -1,8 +1,5 @@
 # 🌌 Tawsif Ahmed — Profile Hub
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/186625676?v=4" width="140" style="border-radius:50%" alt="Tawsif Ahmed" />
-</p>
 
 <p align="center">
   <b>CS Undergraduate @ North South University</b><br/>
