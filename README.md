@@ -42,7 +42,8 @@ This image is fetched dynamically from a public API (no actions or builds needed
 This animated SVG is generated and pushed automatically (see workflow below).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tawsifahmed786/tawsifahmed786/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/tawsifahmed786/tawsifahmed786/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 </p>
 
 ---
